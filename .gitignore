@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+temp_*
+*.tmp
+.DS_Store
+
+# Generated files and directories
+illustrations/
+*_illustrated.epub
