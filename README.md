@@ -1,5 +1,7 @@
 # EPUB Illustrator
 
+![](illustration.png "Example illustration")
+
 EPUB Illustrator is a Python tool that automatically enhances EPUB books with AI-generated illustrations based on the content.
 
 ## Features
